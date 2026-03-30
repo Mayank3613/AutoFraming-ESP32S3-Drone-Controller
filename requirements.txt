@@ -1,0 +1,10 @@
+# Runtime dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+PyQt5>=5.15.9
+ultralytics>=8.0.0
+face_recognition>=1.3.0
+dlib>=19.24.2
+
+# Build dependencies
+pyinstaller>=6.3.0
